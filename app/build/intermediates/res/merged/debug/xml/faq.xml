@@ -1,0 +1,68 @@
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:background="@color/acBar">
+<!--
+        <Preference
+                android:key="faqa0"
+                android:title="@string/faq0"
+                android:enabled="true"
+                >
+     
+        </Preference>
+		<PreferenceScreen
+                android:key="faqa8"
+                android:title="@string/faq8"
+               
+               >
+            
+        </PreferenceScreen>
+        <Preference
+                android:key="faqa1"
+                android:title="@string/faq1"
+                android:enabled="true"
+                >
+     
+        </Preference>
+		<PreferenceScreen
+                android:key="faqa2"
+                android:title="@string/faq2"
+                >
+            
+       </PreferenceScreen>
+		<PreferenceScreen
+                android:key="faqa3"
+                android:title="@string/faq3"
+               
+                >
+            
+       </PreferenceScreen>
+  		<PreferenceScreen
+                android:key="faqa4"
+                android:title="@string/faq4"
+               
+               >
+            
+       </PreferenceScreen>
+		<PreferenceScreen
+                android:key="faqa5"
+                android:title="@string/faq5"
+            
+              >
+            
+       </PreferenceScreen>
+		<PreferenceScreen
+                android:key="faqa6"
+                android:title="@string/faq6"
+               
+               >
+            
+       </PreferenceScreen>
+		<PreferenceScreen
+                android:key="faqa7"
+                android:title="@string/faq7"
+               
+               >
+            
+       </PreferenceScreen>
+       -->
+</PreferenceScreen>

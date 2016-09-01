@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    	
+             android:layout_width="match_parent"
+             android:layout_gravity="bottom"
+             android:layout_height="match_parent">
+
+	<LinearLayout 
+	     	android:id="@+id/cont"  
+		  	android:clickable="true"
+		    android:layout_gravity="bottom"
+		    android:orientation="vertical"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    
+		    >
+
+    <ListView android:id="@id/android:list"
+              android:layout_width="match_parent"
+              android:layout_height="0dp"
+              android:layout_marginBottom="0dp"
+              android:gravity="bottom"
+     		  android:layout_weight="1"
+              style="@style/ContactListView"/>
+    
+  
+	<LinearLayout 
+		    android:id="@+id/cont_number" 
+		    android:background="#99ffffff"
+		    android:orientation="horizontal"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content">
+		    
+	    <EditText 
+	        android:id="@+id/phoneNumber"
+	        android:background="@drawable/noborder"
+	        android:inputType="phone"
+	        android:padding="5dp"
+	        android:layout_width="0dp"
+	        android:layout_height="wrap_content"
+	        android:textColor="@color/gray"
+	        android:textSize="30sp"
+	        android:textStyle="bold"
+	        android:layout_weight="1"
+	        android:gravity="left"
+	        android:onClick="showDialpadUp"
+	        />
+
+			<LinearLayout 
+			    
+			    android:id="@+id/del"
+				android:orientation="horizontal"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center"
+				android:onClick="delChar">   
+	           <ImageView
+	            
+	            android:layout_width="35dp"
+	            android:layout_height="35dp"
+	            android:layout_gravity="center"
+	            android:layout_marginRight="15dp"
+	            android:layout_marginLeft="10dp"
+	            android:contentDescription="@string/button_del"
+	            android:src="@drawable/ic_del"
+	           
+	            />
+           </LinearLayout>
+           
+    </LinearLayout>
+    
+	<View
+	    android:layout_width="fill_parent"
+	    android:layout_height="1dp"
+	    android:background="@color/div_gray"
+	    android:paddingTop="0dp" />
+	
+    <TableLayout 
+		android:id="@+id/dialpad"
+		android:background="#99ffffff"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content" >
+   
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:layout_weight="1" >
+
+        <ImageButton
+            android:id="@+id/button1"
+            style="@style/DialtactsDialpadButtonStyle"
+            android:contentDescription="@string/button_1"
+            android:src="@drawable/dial_num_1" />
+
+        <ImageButton
+            android:id="@+id/button2"
+            style="@style/DialtactsDialpadButtonStyle"
+            android:contentDescription="@string/button_2"
+            android:src="@drawable/dial_num_2" />
+
+        <ImageButton
+            android:id="@+id/button3"
+            style="@style/DialtactsDialpadButtonStyle"
+            android:contentDescription="@string/button_3"
+            android:src="@drawable/dial_num_3" />
+    </TableRow>
+      
+        <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+
+        <ImageButton
+            android:id="@+id/button4"
+            style="@style/DialtactsDialpadButtonStyle"
+            android:contentDescription="@string/button_4"
+            android:src="@drawable/dial_num_4" />
+
+        <ImageButton
+            android:id="@+id/button5"
+            style="@style/DialtactsDialpadButtonStyle"
+            android:contentDescription="@string/button_5"
+            android:src="@drawable/dial_num_5" />
+
+        <ImageButton
+            android:id="@+id/button6"
+            style="@style/DialtactsDialpadButtonStyle"
+            android:contentDescription="@string/button_6"
+            android:src="@drawable/dial_num_6" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+
+        <ImageButton
+            android:id="@+id/button7"
+            style="@style/DialtactsDialpadButtonStyle"
+            android:contentDescription="@string/button_7"
+            android:src="@drawable/dial_num_7" />
+
+        <ImageButton
+            android:id="@+id/button8"
+            style="@style/DialtactsDialpadButtonStyle"
+            android:contentDescription="@string/button_8"
+            android:src="@drawable/dial_num_8" />
+
+        <ImageButton
+            android:id="@+id/button9"
+            style="@style/DialtactsDialpadButtonStyle"
+            android:contentDescription="@string/button_9"
+            android:src="@drawable/dial_num_9" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" >
+
+        <ImageButton
+            android:id="@+id/buttonstar"
+            style="@style/DialtactsDialpadButtonStyle"
+            android:contentDescription="@string/button_star"
+            android:src="@drawable/dial_num_star" />
+
+        <ImageButton
+            android:id="@+id/button0"
+            style="@style/DialtactsDialpadButtonStyle"
+            android:contentDescription="@string/button_0"
+            android:src="@drawable/dial_num_0" />
+
+        <ImageButton
+            android:id="@+id/buttonpound"
+            style="@style/DialtactsDialpadButtonStyle"
+            android:contentDescription="@string/button_pound"
+            android:src="@drawable/dial_num_pound" />
+    </TableRow>
+    
+    
+    </TableLayout>    
+    
+    
+    
+	<LinearLayout 
+		    android:id="@+id/call_cont" 
+		    android:paddingTop="5dp"
+		    android:orientation="horizontal"
+		    android:layout_width="fill_parent"
+		    android:background="#ffffff"
+		    android:layout_height="60dp">
+    		
+		    <LinearLayout 
+				    android:orientation="horizontal"
+				    android:layout_width="wrap_content"
+				    android:layout_height="wrap_content"
+				    android:background="#ffffff"
+				    android:layout_gravity="center"
+				    android:onClick="showDialpad"
+				    >
+    		<ImageView
+					android:id="@+id/updown"
+					android:layout_marginLeft="20dp"
+					android:layout_marginRight="20dp"
+					android:layout_marginBottom="1dp"
+					android:layout_gravity="center"
+					android:background="@color/lightGraybg"
+					android:layout_width="30dp"
+					android:contentDescription="@string/button_9"
+					android:layout_height="30dp"
+					android:src="@drawable/ic_down"
+					/>
+    		</LinearLayout>
+			<ImageView
+					android:id="@+id/call_now"
+					android:layout_marginTop="1dp"
+					android:layout_marginLeft="1dp"
+					android:layout_marginRight="1dp"
+					android:layout_marginBottom="2dp"
+					android:layout_gravity="center"
+					android:background="@drawable/button_blue_call"
+					android:layout_width="0dp"
+					android:layout_weight="1"
+					android:contentDescription="@string/button_9"
+					android:layout_height="fill_parent"
+					android:onClick="callNow"
+					android:src="@drawable/ic_dial"
+					/>
+			<ImageView
+					android:id="@+id/search"
+					android:layout_marginLeft="20dp"
+					android:layout_marginRight="20dp"
+					android:layout_marginBottom="1dp"
+					android:layout_gravity="center"
+					android:background="@color/lightGraybg"
+					android:layout_width="30dp"
+					android:contentDescription="@string/button_9"
+					android:layout_height="30dp"
+					android:onClick="startSearch"
+					android:src="@drawable/ic_action_search"
+					/>
+	</LinearLayout>
+	
+	</LinearLayout>
+</FrameLayout>

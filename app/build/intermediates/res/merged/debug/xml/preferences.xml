@@ -1,0 +1,54 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--
+        	<CheckBoxPreference
+                android:key="gps"
+                android:title="@string/set1"
+                android:summary="@string/set2"
+                android:defaultValue="true" />
+        
+        	<EditTextPreference
+                android:key="sms_gateway"
+                android:title="@string/set3"
+                android:summary="@string/set4"
+                android:inputType="phone"     
+                android:dialogTitle="@string/set3" />
+        
+	        <EditTextPreference
+                android:key="call_prefix"
+                android:title="@string/set5"
+                android:summary="@string/set6"
+                android:inputType="phone"
+                android:defaultValue=""
+                android:dialogTitle="@string/set5" />
+	        
+			<EditTextPreference
+                android:key="server"
+                android:title="@string/set7"
+                android:summary="@string/set8"
+                android:inputType="text"
+                android:defaultValue="http://zvoni-v.ru"
+                android:dialogTitle="@string/set7" />
+		
+			<PreferenceScreen
+                android:key="updateIVR"
+                android:title="@string/set13"
+                android:summary="@string/set14" />
+
+			<PreferenceScreen
+                android:key="new_pass"
+                android:title="@string/set15"
+                android:summary="@string/set16">
+            	<intent android:targetPackage="com.zvonivru"
+    			android:targetClass="com.l2345.ui.NewPass"/>
+       		</PreferenceScreen>
+       		
+			<PreferenceScreen
+                android:key="account"
+                android:title="@string/set9"
+                android:summary="@string/set10">
+            	<intent android:targetPackage="com.zvonivru"
+    			android:targetClass="com.l2345.ui.ActivationActivity"/>
+       		</PreferenceScreen>
+-->
+</PreferenceScreen>

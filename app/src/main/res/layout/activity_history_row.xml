@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="55dp"
+    android:paddingBottom="4dp"
+    android:paddingLeft="15dp"
+    android:paddingTop="4dp">
+
+
+    <TextView
+        android:id="@+id/callName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dip"
+        android:ellipsize="end"
+        android:lines="1"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/callType"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="9dip"
+        android:layout_marginTop="5dip"
+        android:contentDescription="@string/history"
+        android:gravity="right"
+
+        android:paddingBottom="0dp"
+        android:paddingLeft="6dp"
+        android:paddingRight="0dp"
+        android:paddingTop="5dp"
+        android:src="@drawable/ic_arrow_green"
+
+        />
+
+    <TextView
+        android:id="@+id/callPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/callName"
+        android:layout_gravity="center"
+        android:layout_marginTop="2dip"
+        android:ellipsize="end"
+        android:gravity="right"
+        android:lines="1"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:text="+3712312313"
+        android:textSize="14sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/callTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/callName"
+        android:layout_marginRight="9dip"
+        android:layout_marginTop="5dip"
+        android:layout_toRightOf="@id/callPhone"
+        android:gravity="right"
+        android:lines="1"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:text="12:00 PM"
+        android:textColor="@color/lightGray"
+        android:textSize="12sp" />
+
+</RelativeLayout>

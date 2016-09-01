@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="activity_contact_detail">Contact Detail</string>
+    <string name="addrent">+ Добавить</string>
+    <string name="address_button_description">View Address</string>
+    <string name="address_output_string">%1$s %2$s %3$s</string>
+    <string name="alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="app_description">Дешевые звонки по всему миру.</string>
+    <string name="app_name">Телефон</string>
+    <string name="apply">Сохранить</string>
+    <string name="attention">Внимание</string>
+    <string name="button_0">zero</string>
+    <string name="button_1">one</string>
+    <string name="button_2">two</string>
+    <string name="button_3">three</string>
+    <string name="button_4">four</string>
+    <string name="button_5">five</string>
+    <string name="button_6">six</string>
+    <string name="button_7">seven</string>
+    <string name="button_8">eight</string>
+    <string name="button_9">nine</string>
+    <string name="button_del">Remove character</string>
+    <string name="button_pound">button pound</string>
+    <string name="button_star">button star</string>
+    <string name="call">Позвонить</string>
+    <string name="cancel">Отменить</string>
+    <string name="chooserent">Выберите страну</string>
+    <string name="close">Закрыть</string>
+    <string name="cont">Продолжить</string>
+    <string name="contact">Контакт</string>
+    <string name="contacts_list_search_results_title">Contacts List Search for \"%s\"</string>
+    <string name="empty">Журнал пуст</string>
+    <string name="faq">FAQ</string>
+    <string name="faqanws">Ответ</string>
+    <string name="help">Help</string>
+    <string name="history">Журнал вызовов</string>
+    <string name="imageview_description">Contact Thumbnail</string>
+    <string name="instruct">Инструкция</string>
+    <string name="lan">ru</string>
+    <string name="latitude_longitude">%1$.8f, %2$.8f</string>
+    <string name="menu_add_contact">Добавить контакт</string>
+    <string name="menu_edit_contact">Изменит контакт</string>
+    <string name="menu_search">Поиск</string>
+    <string name="min11">Журнал</string>
+    <string name="min13">Отчистить журнал?</string>
+    <string name="min14">Выберите номер</string>
+    <string name="min15">Журнал пуст</string>
+    <string name="missed">Пропущенные звонки</string>
+    <string name="never">Никогда</string>
+    <string name="no">Нет</string>
+    <string name="no_address">Не найдено</string>
+    <string name="no_contact_selected">Контакт не выбран</string>
+    <string name="no_contacts">Контакты не найдены</string>
+    <string name="no_intent_found">Невозможно открыть</string>
+    <string name="number1">У данного контакта нет номера.</string>
+    <string name="number2">Невозможно совершить вызов, данный номер не содержит кода страны или введен неверно. Изменить сейчас?</string>
+    <string name="number3">Невозможно совершить вызов, данный номер не содержит кода страны или введен неверно.</string>
+    <string name="number4">Введите номер, на который желаете позвонить.</string>
+    <string name="refresh">Обновить</string>
+    <string name="search_hint">Поиск контактов</string>
+    <string name="search_match_other">Совпало с другим полем</string>
+    <string name="send">Отпр.</string>
+    <string name="settings">Settings</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="terms">Terms of Service</string>
+    <string name="week">нед</string>
+    <string name="yes">Да</string>
+</resources>

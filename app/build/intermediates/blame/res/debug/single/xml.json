@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\searchable_contacts.xml",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\xml\\searchable_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\contact.xml",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\xml\\contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\instruct.xml",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\xml\\instruct.xml"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\faq.xml",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\xml\\faq.xml"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\helpbalance.xml",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\xml\\helpbalance.xml"
+    }
+]

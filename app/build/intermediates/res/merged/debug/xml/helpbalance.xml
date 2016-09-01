@@ -1,0 +1,36 @@
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:background="@color/acBar">
+<!--
+        <Preference
+                android:key="pref0"
+                android:title="@string/balh0"
+                android:summary="@string/balh1"
+                android:enabled="true"
+                >
+     
+        </Preference>
+        <Preference
+                android:key="pref1"
+                android:title="@string/balh2"
+                android:summary="@string/balh3"
+                android:enabled="true"
+                >
+     
+        </Preference>
+		<PreferenceScreen
+                android:key="pref2"
+                android:title="@string/balh4"
+                android:summary="@string/balh5"
+                >
+            
+       </PreferenceScreen>
+		<PreferenceScreen
+                android:key="pref4"
+                android:title="@string/balh8"
+                android:summary="@string/balh9"
+                >
+            
+       </PreferenceScreen>
+-->
+</PreferenceScreen>

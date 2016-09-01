@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  Copyright (C) 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+
+    <string name="app_name">aloh YOU</string>
+    <string name="lan">en</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="apply">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="attention">Attention</string>
+    <string name="close">Close</string>
+    <string name="send">Send</string>
+    <string name="refresh">Refresh</string>
+    <string name="empty">Log is empty</string>
+    <string name="cont">Continue</string>
+    <string name="history">Call log</string>
+    <string name="week">week</string>
+    <string name="instruct">Guide</string>
+    <string name="faq">FAQ</string>
+
+
+    <string name="activity_contact_detail">Contact Detail</string>
+    <string name="contacts_list_search_results_title">Contacts List Search for \"%s\"</string>
+    <string name="app_description">Cheap call around the globe.</string>
+    <string name="imageview_description">Contact Thumbnail</string>
+    <string name="address_button_description">View Address</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_add_contact">Add contact</string>
+    <string name="menu_edit_contact">Change contact</string>
+    <string name="no_contacts">No contacts found</string>
+    <string name="no_contact_selected">No contact selected</string>
+    <string name="search_hint">Contact search</string>
+    <string name="missed">Missed calls</string>
+    <string name="addrent">+ Add</string>
+    <string name="chooserent">Choose country</string>
+
+
+    <string name="button_1">one</string>
+    <string name="button_2">two</string>
+    <string name="button_3">three</string>
+    <string name="button_4">four</string>
+    <string name="button_5">five</string>
+    <string name="button_6">six</string>
+    <string name="button_7">seven</string>
+    <string name="button_8">eight</string>
+    <string name="button_9">nine</string>
+    <string name="button_0">zero</string>
+    <string name="button_star">button star</string>
+    <string name="button_pound">button pound</string>
+    <string name="button_del">Remove character</string>
+
+
+    <string name="alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="search_match_other">Occurance found</string>
+
+    <string name="no_address">Not found</string>
+    <string name="no_intent_found">Unable to open</string>
+
+
+    <string name="address_output_string">%1$s %2$s %3$s</string>
+    <string name="latitude_longitude">%1$.8f, %2$.8f</string>
+
+
+    <string name="min11">Log</string>
+    <string name="min13">Отчистить журнал?</string>
+    <string name="min14">Выберите номер</string>
+    <string name="min15">Журнал пуст</string>
+
+    <string name="terms">Terms of Service</string>
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+    <string name="faqanws">Answer</string>
+    <string name="contact">Contact</string>
+    <string name="call">Call</string>
+    <string name="never">Never</string>
+    <string name="number1">У данного контакта нет номера.</string>
+    <string name="number2">Невозможно совершить вызов, данный номер не содержит кода страны или введен неверно. Изменить сейчас?</string>
+    <string name="number3">Невозможно совершить вызов, данный номер не содержит кода страны или введен неверно.</string>
+    <string name="number4">Введите номер, на который желаете позвонить.</string>
+
+</resources>

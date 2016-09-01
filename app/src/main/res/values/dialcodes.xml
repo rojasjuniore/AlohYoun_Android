@@ -1,0 +1,227 @@
+<resources>
+
+<string translatable="false" name="afcc">+93</string>
+<string translatable="false" name="alcc">+355</string>
+<string translatable="false" name="aqcc">+6721</string>
+<string translatable="false" name="dzcc">+213</string>
+<string translatable="false" name="ascc">+1 684</string>
+<string translatable="false" name="adcc">+376</string>
+<string translatable="false" name="aocc">+244</string>
+<string translatable="false" name="agcc">+1 268</string>
+<string translatable="false" name="azcc">+994</string>
+<string translatable="false" name="arcc">+54</string>
+<string translatable="false" name="aucc">+61</string>
+<string translatable="false" name="atcc">+43</string>
+<string translatable="false" name="bscc">+1 242</string>
+<string translatable="false" name="bhcc">+973</string>
+<string translatable="false" name="bdcc">+880</string>
+<string translatable="false" name="amcc">+374</string>
+<string translatable="false" name="bbcc">+1 246</string>
+<string translatable="false" name="becc">+32</string>
+<string translatable="false" name="bmcc">+1 441</string>
+<string translatable="false" name="btcc">+975</string>
+<string translatable="false" name="bocc">+591</string>
+<string translatable="false" name="bacc">+387</string>
+<string translatable="false" name="bwcc">+267</string>
+<string translatable="false" name="brcc">+55</string>
+<string translatable="false" name="bzcc">+501</string>
+<string translatable="false" name="iocc">+246</string>
+<string translatable="false" name="sbcc">+677</string>
+<string translatable="false" name="vgcc">+1 284</string>
+<string translatable="false" name="bncc">+673</string>
+<string translatable="false" name="bgcc">+359</string>
+<string translatable="false" name="mmcc">+95</string>
+<string translatable="false" name="bicc">+257</string>
+<string translatable="false" name="bycc">+375</string>
+<string translatable="false" name="khcc">+855</string>
+<string translatable="false" name="cmcc">+237</string>
+<string translatable="false" name="cacc">+1</string>
+<string translatable="false" name="cvcc">+238</string>
+<string translatable="false" name="kycc">+1 345</string>
+<string translatable="false" name="cfcc">+236</string>
+<string translatable="false" name="lkcc">+94</string>
+<string translatable="false" name="tdcc">+235</string>
+<string translatable="false" name="clcc">+56</string>
+<string translatable="false" name="cncc">+86</string>
+<string translatable="false" name="twcc">+886</string>
+<string translatable="false" name="cocc">+57</string>
+<string translatable="false" name="kmcc">+269</string>
+<string translatable="false" name="ytcc">+262</string>
+<string translatable="false" name="cgcc">+243</string>
+<string translatable="false" name="ckcc">+682</string>
+<string translatable="false" name="crcc">+506</string>
+<string translatable="false" name="hrcc">+385</string>
+<string translatable="false" name="rscc">+381</string>
+<string translatable="false" name="cucc">+53</string>
+<string translatable="false" name="cycc">+357</string>
+<string translatable="false" name="czcc">+420</string>
+<string translatable="false" name="bjcc">+229</string>
+<string translatable="false" name="dkcc">+45</string>
+<string translatable="false" name="dmcc">+1 767</string>
+<string translatable="false" name="docc">+1</string>
+<string translatable="false" name="eccc">+593</string>
+<string translatable="false" name="svcc">+503</string>
+<string translatable="false" name="gqcc">+240</string>
+<string translatable="false" name="etcc">+251</string>
+<string translatable="false" name="ercc">+291</string>
+<string translatable="false" name="eecc">+372</string>
+<string translatable="false" name="focc">+298</string>
+<string translatable="false" name="fkcc">+500</string>
+<string translatable="false" name="fjcc">+679</string>
+<string translatable="false" name="ficc">+358</string>
+<string translatable="false" name="frcc">+33</string>
+<string translatable="false" name="gfcc">+594</string>
+<string translatable="false" name="pfcc">+689</string>
+<string translatable="false" name="djcc">+253</string>
+<string translatable="false" name="gacc">+241</string>
+<string translatable="false" name="gecc">+995</string>
+<string translatable="false" name="gmcc">+220</string>
+<string translatable="false" name="decc">+49</string>
+<string translatable="false" name="ghcc">+233</string>
+<string translatable="false" name="gicc">+350</string>
+<string translatable="false" name="kicc">+686</string>
+<string translatable="false" name="grcc">+30</string>
+<string translatable="false" name="glcc">+299</string>
+<string translatable="false" name="gdcc">+1 473</string>
+<string translatable="false" name="gpcc">+590</string>
+<string translatable="false" name="gucc">+1 671</string>
+<string translatable="false" name="gtcc">+502</string>
+<string translatable="false" name="gncc">+224</string>
+<string translatable="false" name="gycc">+592</string>
+<string translatable="false" name="htcc">+509</string>
+<string translatable="false" name="hncc">+504</string>
+<string translatable="false" name="hkcc">+852</string>
+<string translatable="false" name="hucc">+36</string>
+<string translatable="false" name="iscc">+354</string>
+<string translatable="false" name="incc">+91</string>
+<string translatable="false" name="idcc">+62</string>
+<string translatable="false" name="ircc">+98</string>
+<string translatable="false" name="iqcc">+964</string>
+<string translatable="false" name="iecc">+353</string>
+<string translatable="false" name="ilcc">+972</string>
+<string translatable="false" name="itcc">+39</string>
+<string translatable="false" name="cicc">+225</string>
+<string translatable="false" name="jmcc">+1 876</string>
+<string translatable="false" name="jpcc">+81</string>
+<string translatable="false" name="kzcc">+7</string>
+<string translatable="false" name="kecc">+254</string>
+<string translatable="false" name="kpcc">+850</string>
+<string translatable="false" name="krcc">+82</string>
+<string translatable="false" name="kwcc">+965</string>
+<string translatable="false" name="kgcc">+996</string>
+<string translatable="false" name="lacc">+856</string>
+<string translatable="false" name="lbcc">+961</string>
+<string translatable="false" name="lscc">+266</string>
+<string translatable="false" name="lvcc">+371</string>
+
+
+<string translatable="false" name="lrcc">+231</string>
+<string translatable="false" name="lycc">+218</string>
+<string translatable="false" name="licc">+423</string>
+<string translatable="false" name="ltcc">+370</string>
+<string translatable="false" name="lucc">+352</string>
+<string translatable="false" name="mocc">+853</string>
+<string translatable="false" name="mgcc">+261</string>
+<string translatable="false" name="mwcc">+65</string>
+<string translatable="false" name="mycc">+60</string>
+<string translatable="false" name="mvcc">+960</string>
+<string translatable="false" name="mlcc">+223</string>
+<string translatable="false" name="mtcc">+356</string>
+<string translatable="false" name="mqcc">+596</string>
+<string translatable="false" name="mrcc">+222</string>
+<string translatable="false" name="mucc">+230</string>
+<string translatable="false" name="mxcc">+52</string>
+<string translatable="false" name="mccc">+377</string>
+<string translatable="false"  name="mncc">+976</string>
+<string translatable="false"  name="mscc">+1 664</string>
+<string translatable="false"  name="macc">+212</string>
+<string translatable="false"  name="mzcc">+258</string>
+<string translatable="false"  name="omcc">+968</string>
+<string translatable="false"  name="nacc">+264</string>
+<string translatable="false"  name="nrcc">+674</string>
+<string translatable="false"   name="npcc">+977</string>
+<string translatable="false"   name="nlcc">+31</string>
+<string translatable="false"   name="ancc">+599</string>
+<string translatable="false"   name="awcc">+297</string>
+<string translatable="false"   name="nccc">+687</string>
+<string translatable="false"   name="vucc">+678</string>
+<string translatable="false"   name="nzcc">+64</string>
+<string translatable="false"   name="nicc">+505</string>
+<string translatable="false"   name="necc">+227</string>
+<string translatable="false"   name="ngcc">+234</string>
+<string translatable="false"   name="nucc">+683</string>
+<string translatable="false"   name="nfcc">+6723</string>
+<string translatable="false"   name="nocc">+47</string>
+<string translatable="false"   name="mpcc">+1 670</string>
+<string translatable="false"   name="fmcc">+691</string>
+<string translatable="false"   name="mhcc">+692</string>
+<string translatable="false"   name="pkcc">+92</string>
+<string translatable="false"   name="pacc">+507</string>
+<string translatable="false"   name="pgcc">+675</string>
+<string translatable="false"   name="pycc">+595</string>
+<string translatable="false"   name="pecc">+51</string>
+<string translatable="false"   name="phcc">+63</string>
+<string translatable="false"   name="plcc">+48</string>
+<string translatable="false"   name="ptcc">+351</string>
+<string translatable="false"   name="gwcc">+245</string>
+<string translatable="false"   name="prcc">+1</string>
+<string translatable="false"   name="qacc">+974</string>
+<string translatable="false"   name="recc">+262</string>
+<string translatable="false"   name="rocc">+40</string>
+<string translatable="false"   name="rucc">+7</string>
+<string translatable="false"   name="rwcc">+250</string>
+<string translatable="false"   name="shcc">+290</string>
+<string translatable="false"   name="kncc">+1 869</string>
+<string translatable="false"  name="pmcc">+508</string>
+<string translatable="false"  name="vccc">+1 784</string>
+<string translatable="false"  name="smcc">+378</string>
+<string translatable="false"  name="stcc">+239</string>
+<string translatable="false"  name="sacc">+966</string>
+<string translatable="false"  name="sncc">+221</string>
+<string translatable="false"  name="sccc">+248</string>
+<string translatable="false"  name="slcc">+232</string>
+<string translatable="false"  name="sgcc">+65</string>
+<string translatable="false"  name="skcc">+421</string>
+<string translatable="false"  name="vncc">+84</string>
+<string translatable="false"  name="sicc">+386</string>
+<string translatable="false"  name="socc">+252</string>
+<string translatable="false"  name="zacc">+27</string>
+<string translatable="false"  name="zwcc">+263</string>
+<string translatable="false"  name="escc">+34</string>
+<string translatable="false"  name="sdcc">+249</string>
+<string translatable="false"  name="srcc">+597</string>
+<string translatable="false"  name="szcc">+268</string>
+<string translatable="false"  name="secc">+46</string>
+<string translatable="false"  name="chcc">+41</string>
+<string translatable="false"  name="sycc">+963</string>
+<string translatable="false"  name="tjcc">+992</string>
+<string translatable="false"  name="thcc">+255</string>
+<string translatable="false"  name="tgcc">+228</string>
+<string translatable="false"  name="tkcc">+690</string>
+<string translatable="false"  name="tocc">+676</string>
+<string translatable="false"  name="ttcc">+1 868</string>
+<string translatable="false"  name="aecc">+971</string>
+<string translatable="false"  name="tncc">+216</string>
+<string translatable="false"  name="trcc">+90</string>
+<string translatable="false"  name="tmcc">+993</string>
+<string translatable="false"  name="tccc">+1 649</string>
+<string translatable="false"  name="tvcc">+688</string>
+<string translatable="false"  name="ugcc">+256</string>
+<string translatable="false"  name="uacc">+380</string>
+<string translatable="false"  name="mkcc">+389</string>
+<string translatable="false"  name="egcc">+20</string>
+<string translatable="false"  name="gbcc">+44</string>
+<string translatable="false"  name="tzcc">+255</string>
+<string translatable="false"  name="uscc">+1</string>
+<string translatable="false"  name="vicc">+1 340</string>
+<string translatable="false"  name="bfcc">+226</string>
+<string translatable="false"  name="uycc">+598</string>
+<string translatable="false"  name="uzcc">+998</string>
+<string translatable="false"  name="vecc">+58</string>
+<string translatable="false"  name="wfcc">+681</string>
+<string translatable="false"  name="wscc">+1 684</string>
+<string translatable="false"  name="yecc">+967</string>
+<string translatable="false"  name="zmcc">+260</string>
+
+
+</resources>

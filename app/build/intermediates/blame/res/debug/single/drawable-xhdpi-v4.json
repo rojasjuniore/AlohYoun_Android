@@ -1,0 +1,474 @@
+[
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dial_num_5_wht.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\dial_num_5_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_contact_picture_180_holo_light.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_contact_picture_180_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_call_missed_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_call_missed_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_simreg_green.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_simreg_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_dialer_fork_current_call.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_dialer_fork_current_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_simreg_red.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_simreg_red.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dial_background_texture.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\dial_background_texture.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_ab_history_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_ab_history_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_menu_overflow.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_overflow.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_alert.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_alert.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_hold_pause_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_hold_pause_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dial_num_0_wht.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\dial_num_0_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_arrow_missed.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow_missed.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bar_add_contact.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\bar_add_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_play_disabled_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_play_disabled_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_call_voicemail_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_call_voicemail_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dial_num_6_wht.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\dial_num_6_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_contact_picture_holo_light.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_contact_picture_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_arrow_callback.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow_callback.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_up.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plus_disabled_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_plus_disabled_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_dial_action_search.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_dial_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dial_num_pound_wht.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\dial_num_pound_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sound_speakerphone_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_sound_speakerphone_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bar_trash.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\bar_trash.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sound_off_speakerphone_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_sound_off_speakerphone_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_down.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_call_outgoing_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_call_outgoing_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_hold_pause_disabled_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_hold_pause_disabled_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_del.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_del.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_dial_action_call.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_dial_action_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dial_num_4_wht.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\dial_num_4_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_help2.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_help2.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_dial_action_delete.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_dial_action_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dial_num_9_wht.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\dial_num_9_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sound_speakerphone_disabled_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_sound_speakerphone_disabled_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_play_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_play_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dial_num_2_wht.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\dial_num_2_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dial_num_8_wht.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\dial_num_8_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_plus_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_plus_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_trash_btn.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_trash_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ab_stacked_opaque_dark_holo.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ab_stacked_opaque_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_call_incoming_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_call_incoming_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_minus_disabled_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_minus_disabled_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bar_calls.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\bar_calls.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_call_pressed.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\btn_call_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_simreg.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_simreg.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_remove.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\con_1.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\con_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_help4.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_help4.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dial_num_star_wht.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\dial_num_star_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dial_num_7_wht.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\dial_num_7_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_minus_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_minus_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dial_num_1_wht.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\dial_num_1_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\con_2.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\con_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\bar_refresh.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\bar_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_action_map.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_arrow_green.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow_green.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_dialer_fork_add_call.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_dialer_fork_add_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_help1.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_help1.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_play_active_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_play_active_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_arrow_blue.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_trash_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_trash_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dial_num_3_wht.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\dial_num_3_wht.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_dialer_fork_tt_keypad.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_dialer_fork_tt_keypad.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_ab_dialer_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_ab_dialer_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\con_3.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\con_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_dial.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_dial.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_sound_off_speakerphone_disabled_holo_dark.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\src\\main\\res\\drawable-xhdpi\\ic_sound_off_speakerphone_disabled_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Junior\\Google Drive\\AlohYoun_Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    }
+]

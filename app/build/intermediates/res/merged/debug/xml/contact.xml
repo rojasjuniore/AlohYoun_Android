@@ -1,0 +1,39 @@
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:background="@color/acBar">
+<!--
+        <Preference
+                android:key="pref1"
+                android:title="@string/con0"
+                android:summary="@string/con1"
+                android:icon="@drawable/con_1"
+                android:enabled="true"
+                >
+     
+        </Preference>
+		<PreferenceScreen
+                android:key="pref2"
+                android:title="@string/con2"
+                android:summary="@string/con3"
+                android:icon="@drawable/con_2"
+                >
+            
+       </PreferenceScreen>
+		<PreferenceScreen
+                android:key="pref3"
+                android:title="@string/con4"
+                android:summary="@string/con5"
+                android:icon="@drawable/con_3"
+                >
+            
+       </PreferenceScreen>
+		<PreferenceScreen
+                android:key="pref4"
+                android:title="@string/con4"
+                android:summary="@string/con5"
+                android:icon="@drawable/con_2"
+                >
+            
+       </PreferenceScreen>
+    -->
+</PreferenceScreen>
